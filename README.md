@@ -1,4 +1,4 @@
-# README
+# README - catsAPI
 Consuming a Cats API using Rails. 
 
 API: https://thecatapi.com/
